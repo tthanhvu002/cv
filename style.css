@@ -1,6 +1,10 @@
 /* Hover effect on links */
 a:hover {
-    color: #555;
+    color: #676767;
+}
+a{
+    color: rgb(19, 66, 112);
+    text-decoration: none;
 }
 ul{
     padding-left: 2rem;
