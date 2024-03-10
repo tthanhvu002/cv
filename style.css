@@ -32,6 +32,7 @@ ul{
     display: none;
 }
 .content{
+    padding-top: 40px;
     margin-left: 38%;
 }
 /* Avatar style */
